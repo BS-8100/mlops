@@ -1,0 +1,11 @@
+Context
+This is a small dataset for experimenting with computer vision techniques. It has a training directory containing 14-20 photos each of the celebrities
+
+Ben Afflek
+Elton John
+Jerry Seinfeld
+Madonna
+Mindy Kaling
+The validation directory has 5 photos of each celebrity.
+
+The photos haven't been cropped for consistent aspect ratios. With so few training photos, this an especially interesting test of computer vision techniques.
